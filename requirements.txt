@@ -1,0 +1,9 @@
+tifffile
+geojson
+scikit-image
+albumentations>=1.0.0
+opencv-python==4.8.0.74
+ipywidgets
+notebook
+opencv-contrib-python
+imagecodecs
